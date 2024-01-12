@@ -1,0 +1,12 @@
+bx bx-arrow-back{
+   background: rgb(9, 222, 230); 
+   font-size: large;
+   border: .2rem solid rgb(6, 234, 241);
+   border-radius: .8rem;
+}
+a{
+    background: rgb(9, 222, 230); 
+   font-size: large;
+   border: .2rem solid rgb(6, 234, 241);
+   border-radius: .8rem;
+}
